@@ -1,6 +1,16 @@
 {
   "name": "🔥FUEGO",
   "symbol": "🔥FUEGO",
-  "description": "Lets Proof the Steak \n Twitter: https://twitter.com/_ProofOfSteak \n Telegram: https://t.me/ProofOfSteakCoin \n Website: https://proof-of-streak.my.canva.site",
-  "image": "https://raw.githubusercontent.com/alucard866/crypto/main/cat.gif"
+  "description": "Lets Proof the Steak.  Website:https://proof-of-streak.my.canva.site Twitter:https://twitter.com/_ProofOfSteak Telegram:https://t.me/ProofOfSteakCoin",
+  "image": "https://raw.githubusercontent.com/alucard866/crypto/main/cat.gif",
+  "extensions": {
+    "website": "https://proof-of-streak.my.canva.site",
+    "twitter": "https://twitter.com/_ProofOfSteak",
+    "telegram": "https://t.me/ProofOfSteakCoin"
+  },
+  "tags": [],
+  "creator": {
+    "name": "TEST",
+    "site": "https://github.com/"
+  }
 }
